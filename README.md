@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohammad but my friends call me by my middle name Mohsin.
+- 👀 I’m interested in math and learning new programming languages.
+- 🌱 I’m currently learning Software Engineering (Coop) at Mcmaster University.
+- 📫 You can reach me by email: mmohsink606@gmail.com
